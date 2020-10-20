@@ -27,6 +27,6 @@ entries:
     - https://github.com/bitnami/bitnami-docker-redis
     - http://redis.io/
     urls:
-    - https://margaretgorguissian.github.io/charts/redis-11.2.1.tgz
+    - https://margaretgorguissian.github.io/charts/bitnami/redis/redis-11.2.1.tgz
     version: 11.2.1
 generated: 2020-10-19T16:31:02.134365225-04:00
